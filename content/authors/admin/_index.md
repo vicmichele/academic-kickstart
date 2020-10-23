@@ -1,37 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Vic Michele
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of English and Film
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Valencia College
+  url: "www.valenciacollege.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Professor; Surveyor and Creator of Words; Mother; Rotator of Chords & Beats, Futbols, Music, Weights, Pedals, & Feet; Film Critic, & Multi-Media Compilationist.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Film Studies and Camera's Gaze
+- Transnational Feminisms
+- Flash Fiction and Non-Fictio
+- Modern American and Language Poetries
+- Critical Race and Postcolonial Theories
+- LGBTQ+ Theories and Literatures
+- LatinX Theories and Literatures
+- Affect Theories
+- Activism and Community Involvement
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD Student
+    institution: University of Central Florida
+    year: 2022
+  - course: MA in Literature
+    institution: University of Central Florida
     year: 2008
+  - course: BA in Literature
+    institution: University of Central Florida
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
